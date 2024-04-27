@@ -74,7 +74,7 @@
 
 #### Fixed
 
-- Capitalized "Rust" in exercise hints
+- capitalized "Rust" in exercise hints
 - **enums3**: Removed superfluous tuple brackets
 - **quiz2, clippy1, iterators1**: Fixed a typo
 - **rc1**: Fixed a prompt error
